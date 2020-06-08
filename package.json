@@ -1,5 +1,5 @@
 {
-  "name": "tw_mongo_db_js",
+  "name": "tw_mongodb_js",
   "version": "0.1.0",
   "description": "Basic usage of MongoDB with node",
   "main": "src/index.js",

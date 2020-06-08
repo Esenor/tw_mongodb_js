@@ -1,4 +1,4 @@
-# tw_mongo_db_js
+# tw_mongodb_js
 
 Basic usage of MongoDB with node js
 
