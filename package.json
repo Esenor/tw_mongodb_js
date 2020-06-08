@@ -1,0 +1,14 @@
+{
+  "name": "tw_mongo_db_js",
+  "version": "0.1.0",
+  "description": "Basic usage of MongoDB with node",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "esenor",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.8"
+  }
+}
