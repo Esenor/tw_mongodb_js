@@ -9,6 +9,6 @@
   "author": "esenor",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.5.8"
+    "mongodb": "^4.0.0"
   }
 }
